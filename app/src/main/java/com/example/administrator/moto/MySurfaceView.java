@@ -20,7 +20,7 @@ public class MySurfaceView extends SurfaceView implements
     private SurfaceHolder sfh;
     private Paint paint;
     private boolean flag=true;
-    private int X=300;
+    private int X=500;
     private Thread th;
     private boolean isBattle=false;
     //手机屏幕的大小
